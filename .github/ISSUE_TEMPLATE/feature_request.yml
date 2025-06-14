@@ -1,13 +1,13 @@
+---
 name: Feature Request
-  description: Suggest a new feature or improvement for Channel Tools
-  title: "[Feature] "
-  labels: ["enhancement"]
-  body:
+description: Suggest a new feature or improvement for Channel Tools
+title: "[Feature] "
+labels: ["enhancement"]
+body:
     - type: markdown
       attributes:
         value: |
-          Thanks for suggesting a new feature! Please provide as much detail as possible to help us understand 
-  your idea.
+          Thanks for suggesting a new feature! Please provide as much detail as possible to help us understand your idea.
 
     - type: textarea
       id: problem
