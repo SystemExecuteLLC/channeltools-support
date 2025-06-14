@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+  contact_links:
+    - name: 💬 General Support
+      url: mailto:support@channeltools.ai
+      about: Email us for general questions or account support
+    - name: 📚 Help Documentation
+      url: https://channeltools.ai/help
+      about: Check our help page for guides and FAQs
